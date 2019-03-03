@@ -8,4 +8,4 @@ Eventually, the user will get rated about his balance by the app.
 
 * Only the Arduino code is provided here but not the app's code.
 
-* For more detail, please refer to the PPT file
+* For more detail, please refer to the PPT file: https://drive.google.com/file/d/1Iv8G8rbaXyf-Jm7FIQbnkgYAD3jlQKVi/view?usp=sharing
